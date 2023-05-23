@@ -1,16 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/AizqZlJ-)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ZQ8xT3c3)
 
-# Week 15 Dandi Rizky (Backend Extra)
+# Week 16 Dandi Rizky (Backend Infra)
 
 ---
-
-For this week assignment, i'm trying to containerizing the apps from week 14 using docker and creating beautiful documentation using swagger.
 
 ## Docker Hub 🐳
 
 ---
 
-My Docker Hub Images : https://hub.docker.com/r/dandirizkyy/w15-dandi-myapp
+My Docker Hub Images : `soon`
 
 ## Installation 🔨
 
@@ -19,7 +17,7 @@ My Docker Hub Images : https://hub.docker.com/r/dandirizkyy/w15-dandi-myapp
 In order to run this project locally, you need to clone this repository first using git clone
 
 ```bash
-$ https://github.com/revou-fsse-1/w15-my-backend-extra-DandiRizkyy.git
+$ https://github.com/revou-fsse-1/w16-my-backend-infra-DandiRizkyy.git
 ```
 
 then run `pnpm install` in your terminal to download all dependencies
@@ -156,8 +154,7 @@ Here you can find my documentation using swagger : https://w15-webapp-dandi.onre
   {
   "title": "Example Title",
   "description": "Example Description",
-  "category": "Example Category",
-  "userId": 1
+  "category": "Example Category"
   }
   --------------------
   PUT     /products/1
