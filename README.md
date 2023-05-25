@@ -3,12 +3,15 @@
 # Week 16 Dandi Rizky (Backend Infra)
 
 ---
+## Google Cloud Platform (GCP) 👀
+---
 
+Links : https://w16-myapp.dandirizky.site
 ## Docker Hub 🐳
 
 ---
 
-My Docker Hub Images : `soon`
+My Docker Hub Images : https://hub.docker.com/r/dandirizkyy/w16-myapp/tags
 
 ## Installation 🔨
 
@@ -47,7 +50,7 @@ services:
     container_name: dandirizky-myapp
     build: .
     ports:
-    - 4001:4001
+    - 4000:4000
     env_file:
     - .env
     depends_on:
@@ -94,7 +97,7 @@ docker-compose stop
 
 ### Swagger Documentation
 
-Here you can find my documentation using swagger : https://w15-webapp-dandi.onrender.com/docs
+Here you can find my documentation using swagger : https://w16-myapp.dandirizky.site/docs
 
 ---
 
@@ -201,6 +204,7 @@ Here you can find my documentation using swagger : https://w15-webapp-dandi.onre
 - PrismaORM
 - PostgreSQL
 - Docker
+- GCP
 
 ## Support 🙌
 
