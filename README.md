@@ -3,6 +3,14 @@
 # Week 16 Dandi Rizky (Backend Infra)
 
 ---
+
+On this week assignments, we have a task to deploy our apps on Google Cloud Platform. Including pushing docker images to Artifact Repository Service and Creating VM Compute Engine to store our apps there and using Cloudflare to set the https.
+ 
+## Diagram ✍
+---
+
+![](/assets/W16-DIAGRAM.png)
+
 ## Google Cloud Platform (GCP) 👀
 ---
 
