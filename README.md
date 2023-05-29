@@ -9,7 +9,7 @@ On this week assignments, we have a task to deploy our apps on Google Cloud Plat
 ## Diagram ✍
 ---
 
-![](/assets/W16-DIAGRAM.png)
+![](/assets/W16-DIAGRAM-fixed.png)
 
 ## Google Cloud Platform (GCP) 👀
 ---
